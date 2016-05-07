@@ -1,0 +1,31 @@
+<projectDescription>
+  <id>1248797295507</id>
+  <name>Tetris</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/jeff.J-A-M/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/jeff.J-A-M/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Z|/Software Dev/Games/Tetris/Master.fla</defaultApp>
+  <rootURI>file:///G|/Projects/Games/Tetris/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="Master.fla">file:///Z|/Software Dev/Games/Tetris/Master.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="Master.fla">file:///G|/Projects/Games/Tetris/Master.fla</uri>
+    <uri label="Board.as">file:///G|/Projects/Games/Tetris/AS/Objects/Board.as</uri>
+    <uri label="PlayState.as">file:///G|/Projects/Games/Tetris/AS/States/PlayState.as</uri>
+    <uri label="KeyInput.as">file:///Z|/Software Dev/Games/Tetris/AS/Util/KeyInput.as</uri>
+    <uri label="Piece.as">file:///Z|/Software Dev/Games/Tetris/AS/Objects/Piece.as</uri>
+    <uri label="Board.as">file:///Z|/Software Dev/Games/Tetris/AS/Objects/Board.as</uri>
+    <uri label="Master.fla">file:///Z|/Software Dev/Games/Tetris/Master.fla</uri>
+    <uri label="PlayState.as">file:///Z|/Software Dev/Games/Tetris/AS/States/PlayState.as</uri>
+    <uri label="Main.as">file:///Z|/Software Dev/Games/Tetris/AS/Main.as</uri>
+    <uri label="Block.as">file:///Z|/Software Dev/Games/Tetris/AS/Objects/Block.as</uri>
+    <uri label="HighScore.as">file:///Z|/Software Dev/Games/Tetris/AS/States/HighScore.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
